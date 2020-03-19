@@ -8,7 +8,6 @@
   .menu-flex {
     display: flex;
     justify-content: space-between;
-    border: 1px solid green;
     padding: 10px 20px;
     align-items: center;
     flex-wrap: wrap;
@@ -26,10 +25,11 @@
   .nav-link a{
     text-decoration: none;
       margin: 10px;
-      background: #ccc;
+     
       color: #000000;
   }
 
-  .active{
-      background: red;
+  .nav-link a:hover{
+      color: #D2691E;
   }
+

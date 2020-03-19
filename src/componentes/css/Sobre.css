@@ -1,0 +1,32 @@
+.container-sobre{
+
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.container-sobre h2{
+    margin-top: 60px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.sobre-flex{
+   
+    display: flex;
+   
+   
+}
+
+.sobre-img img{
+    width: 560px;
+    margin: 0 10px;
+    height:400px;
+   
+}
+
+.sobre-text{
+    margin: 0 10px;
+}
+
+

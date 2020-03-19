@@ -17,6 +17,9 @@ export default function Header() {
                 <a href="#">A Empresa</a>
               </li>
               <li className="nav-link">
+                <a href="#">Serviços</a>
+              </li>
+              <li className="nav-link">
                 <a href="#">Financiamento</a>
               </li>
               <li className="nav-link">
