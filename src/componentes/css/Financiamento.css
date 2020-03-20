@@ -1,0 +1,23 @@
+.container-financiamento{
+    max-width: 1200px;
+    margin: 0 auto;
+   
+}
+
+.title h2{
+    text-align: center;
+    margin: 60px 0 30px 0;
+}
+
+.financiamento-flex{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 0;
+    
+}
+
+.caixa img, .bb img, .itau img, .bradesco img {
+    width: 200px;
+    margin: 10px 10px;
+}
+
