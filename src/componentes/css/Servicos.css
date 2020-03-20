@@ -1,0 +1,18 @@
+
+.container-flex{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.text-servicos h3 {
+    margin: 20px 0;
+}
+
+.text-servicos, .img-servicos {
+    margin: 0px 10px;
+}
+
+.text-servicos p{
+    text-align: justify;
+}

@@ -33,5 +33,6 @@
 
   .nav-link a:hover{
       color: #D2691E;
+      transition: .5s;
   }
 
