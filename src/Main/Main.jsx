@@ -5,6 +5,7 @@ import Sobre from '../componentes/templates/Sobre';
 import Financiamento from '../componentes/templates/Financiamento';
 import Mapa from '../componentes/templates/Mapa';
 import Servicos from '../componentes/templates/Servicos';
+import Footer from '../componentes/templates/Footer';
 
 
 function Main() {
@@ -16,6 +17,7 @@ function Main() {
       <Financiamento />
       <Mapa />
       <Servicos />
+      <Footer />
     </div>
   );
 }

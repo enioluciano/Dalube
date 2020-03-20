@@ -16,10 +16,10 @@ export default function Header() {
               <li className="nav-link">
                 <a href={"/#"}>A Empresa</a>
               </li>
-              <li className="nav-link">
+              <li className="nav-link ">
                 <a href="/#">Serviços</a>
               </li>
-              <li className="nav-link">
+              <li className=" nav-link">
                 <a href="/#">Financiamento</a>
               </li>
               <li className="nav-link">
